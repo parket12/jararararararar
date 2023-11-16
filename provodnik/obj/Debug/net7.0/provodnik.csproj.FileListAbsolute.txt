@@ -1,0 +1,14 @@
+C:\Users\xiaomi\source\repos\provodnik\provodnik\bin\Debug\net7.0\provodnik.exe
+C:\Users\xiaomi\source\repos\provodnik\provodnik\bin\Debug\net7.0\provodnik.deps.json
+C:\Users\xiaomi\source\repos\provodnik\provodnik\bin\Debug\net7.0\provodnik.runtimeconfig.json
+C:\Users\xiaomi\source\repos\provodnik\provodnik\bin\Debug\net7.0\provodnik.dll
+C:\Users\xiaomi\source\repos\provodnik\provodnik\bin\Debug\net7.0\provodnik.pdb
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\provodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\provodnik.AssemblyInfoInputs.cache
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\provodnik.AssemblyInfo.cs
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\provodnik.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\provodnik.dll
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\refint\provodnik.dll
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\provodnik.pdb
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\provodnik.genruntimeconfig.cache
+C:\Users\xiaomi\source\repos\provodnik\provodnik\obj\Debug\net7.0\ref\provodnik.dll
